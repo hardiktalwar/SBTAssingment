@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Assignment1-1716.iml" filepath="$PROJECT_DIR$/.idea/modules/Assignment1-1716.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Assignment1-1716-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Assignment1-1716-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Persistence.iml" filepath="$PROJECT_DIR$/Persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/htto.iml" filepath="$PROJECT_DIR$/htto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http.iml" filepath="$PROJECT_DIR$/http.iml" />
+    </modules>
+  </component>
+</project>
